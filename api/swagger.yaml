@@ -8,9 +8,9 @@ info:
     name: "antiparkparking@gmail.com"
     email: "antiparkparking@gmail.com"
 
-host: "localhost:8080"
+host: "caretoparkapi.herokuapp.com:443"
 schemes:
-- "http"
+- "https"
 paths:
   /stickers/:
     post:
